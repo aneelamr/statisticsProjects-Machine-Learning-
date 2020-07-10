@@ -1,5 +1,5 @@
 #'---
-#'title: Midterm 1
+#'
 #'author: Aditya Neelamraju
 #'date: 4/20/2020
 #'---
