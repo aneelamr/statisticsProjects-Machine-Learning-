@@ -1,5 +1,5 @@
 #'---
-#'title: homework 7
+#'
 #'author: Aditya Neelamraju
 #'date: 5/26/2020
 #'---
